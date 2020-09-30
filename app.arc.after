@@ -1,0 +1,10 @@
+@app
+test-cra-001
+
+@http
+get /
+
+# @aws
+# profile default
+# region us-west-1
+  
